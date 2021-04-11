@@ -1,4 +1,4 @@
-# Write-a-Data-Science-Blog-Post
+# Write a Data Science Blog Post - Who will be your colleagues on the first day when you become a professional software developer?
  Write a blog spot for udacity project
 
 
